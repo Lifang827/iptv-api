@@ -3,8 +3,14 @@
   <h1 align="center">IPTV-API</h1>
 </div>
 
-<div align="center">A highly customizable IPTV interface update project 📺, with customizable channel menus, automatic live stream acquisition, speed testing, and validation to generate usable results, achieving 『✨instant playback experience🚀』</div>
-<br>
+📺 IPTV live-source auto-update platform — 🤖 fully automated collection, filtering, speed-testing, and generation
+pipeline 🚀. Supports extensive customization; paste the resulting URL into your player to watch
+
+<p align="center">
+    <br>
+    <a href="https://trendshift.io/repositories/12327" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12327" alt="Guovin%2Fiptv-api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Guovin/iptv-api/releases/latest">
     <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
@@ -23,7 +29,11 @@
   </a>
 </p>
 
+<div align="center">
+
 [中文](./README.md) | English
+
+</div>
 
 🎉💻 [IPTV-Web](https://github.com/Guovin/iptv-web): IPTV live stream management platform, supports online playback and
 other features, under development...
@@ -34,7 +44,7 @@ other features, under development...
 - [🔗 Latest results](#latest-results)
 - [⚙️ Config parameter](#Config)
 - [🚀 Quick Start](#quick-start)
-    - [Directory Description](#directory-description)
+    - [Configuration and Results Directory](#configuration-and-results-directory)
     - [Workflow](#workflow)
     - [Command Line](#command-line)
     - [GUI Software](#gui-software)
@@ -42,7 +52,7 @@ other features, under development...
 - [📖 Detailed Tutorial](./docs/tutorial_en.md)
 - [🗓️ Changelog](./CHANGELOG.md)
 - [❤️ Appreciate](#appreciate)
-- [👀 Follow the public account](#follow)
+- [👀 Follow](#follow)
 - [⭐️ Star History](#star-history)
 - [📣 Disclaimer](#disclaimer)
 - [⚖️ License](#license)
@@ -122,8 +132,8 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 ## Config
 
 > [!NOTE]\
-> The following configuration items are located in the `config/config.ini` file. You can modify them via the
-> configuration file or environment variables (with the same item name). After saving changes, restart to take effect.
+> The following configuration items are located in `config/config.ini` and can be modified via the configuration file or
+> environment variables. Save changes and restart to apply.
 
 | Configuration Item     | Description                                                                                                                                                                                                                                                                                                                                                                                                                      | Default Value     |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------|
@@ -153,6 +163,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 | open_use_cache         | Enable the use of local cache data, applicable to the query request failure scenario (only for hotel sources and multicast sources)                                                                                                                                                                                                                                                                                              | True              |
 | open_history           | Enable the use of historical update results (including the interface for template and result files) and merge them into the current update                                                                                                                                                                                                                                                                                       | True              |
 | open_headers           | Enable to use the request header verification information contained in M3U, used for speed measurement and other operations. Note: Only a few players support playing this type of interface with verification information, which is turned off by default                                                                                                                                                                       | False             |
+| app_host               | Page service Host address, default is to use the local machine IP                                                                                                                                                                                                                                                                                                                                                                |                   |
 | app_port               | Page service port, used to control the port number of the page service                                                                                                                                                                                                                                                                                                                                                           | 8000              |
 | cdn_url                | CDN proxy acceleration address, used for accelerated access to subscription sources, channel icons and other resources                                                                                                                                                                                                                                                                                                           |                   |
 | final_file             | Generated result file path                                                                                                                                                                                                                                                                                                                                                                                                       | output/result.txt |
@@ -193,34 +204,35 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 
 ## Quick Start
 
-### Directory Description
+### Configuration and Results Directory
 
-| Directory Path            | Description                                                           |
-|:--------------------------|:----------------------------------------------------------------------|
-| config                    | Configuration files directory, includes config files, templates, etc. |
-| config/config.ini         | Configuration parameters file                                         |
-| config/rtp                | Multicast IPs for each region/operator                                |
-| config/demo.txt           | Channel template                                                      |
-| config/alias.txt          | Channel aliases                                                       |
-| config/blacklist.txt      | Interface blacklist                                                   |
-| config/whitelist.txt      | Interface whitelist                                                   |
-| config/subscribe.txt      | Channel subscription sources list                                     |
-| config/local.txt          | Local source file                                                     |
-| config/epg.txt            | EPG subscription sources list                                         |
-| output                    | Output files directory, includes generated result files, etc.         |
-| output/data               | Result data cache directory                                           |
-| output/epg                | EPG result directory                                                  |
-| output/ipv4               | IPv4 result directory                                                 |
-| output/ipv6               | IPv6 result directory                                                 |
-| output/result(.m3u/txt)   | m3u/txt result                                                        |
-| output/live(.m3u/txt)     | RTMP live stream result                                               |
-| output/hls(.m3u/txt)      | RTMP hls stream result                                                |
-| output/log                | Log files directory                                                   |
-| output/log/result.log     | Valid result log                                                      |
-| output/log/speed_test.log | Speed test log                                                        |
-| output/log/statistic.log  | Statistics result log                                                 |
-| output/log/nomatch.log    | Unmatched channel records                                             |
-| source.json               | VOD source configuration file                                         |
+```
+iptv-api/                  # Project root directory
+├── config                 # Configuration files directory, includes config files, templates, etc.
+│   └── config.ini         # Configuration parameters file
+│   └── rtp                # Multicast IPs for each region/operator
+│   └── demo.txt           # Channel template
+│   └── alias.txt          # Channel aliases
+│   └── blacklist.txt      # Interface blacklist
+│   └── whitelist.txt      # Interface whitelist
+│   └── subscribe.txt      # Channel subscription sources list
+│   └── local.txt          # Local source file
+│   └── epg.txt            # EPG subscription sources list
+├── output                 # Output files directory, includes generated result files, etc.
+│   └── data               # Result data cache directory
+│   └── epg                # EPG result directory
+│   └── ipv4               # IPv4 result directory
+│   └── ipv6               # IPv6 result directory
+│   └── result.m3u/txt     # m3u/txt result
+│   └── live.m3u/txt       # RTMP live stream result
+│   └── hls.m3u/txt        # RTMP hls stream result
+│   └── log                # Log files directory
+│       └── result.log     # Valid result log
+│       └── speed_test.log # Speed test log
+│       └── statistic.log  # Statistics result log
+│       └── nomatch.log    # Unmatched channel records
+└── source.json            # VOD source configuration file
+```
 
 ### Workflow
 
@@ -296,10 +308,13 @@ Taking the host path /etc/docker as an example:
 
 ##### Environment Variables:
 
-| Variable | Description          | Default Value      |
-|:---------|:---------------------|:-------------------|
-| APP_HOST | Service host address | "http://localhost" |
-| APP_PORT | Service port         | 8000               |
+| Variable | Description          | Default Value    |
+|:---------|:---------------------|:-----------------|
+| APP_HOST | Service host address | Local machine IP |
+| APP_PORT | Service port         | 8000             |
+
+In addition to the environment variables listed above, you can also override the [configuration items](#Config) in the
+configuration file via environment variables.
 
 #### 3. Update Results
 
@@ -360,7 +375,13 @@ Taking the host path /etc/docker as an example:
 
 ## Follow
 
-Wechat public account search for Govin, or scan the code to receive updates and learn more tips:
+### GitHub
+
+Follow my GitHub account [Guovin](https://github.com/Guovin) to find more useful projects
+
+### WeChat public account
+
+WeChat public account search for Govin, or scan the code to receive updates and learn more tips:
 
 ![Wechat public account](./static/images/qrcode.jpg)
 
