@@ -1,31 +1,28 @@
 🕘️更新时间,#genre#
-2026-03-13 18:29:46,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-03-14 06:22:45,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
-CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
-CCTV-9,http://117.72.45.109:3577/673168140?reptoken=R/mg&auth=
-CCTV-10,http://119.91.7.169:2026/ysws.php?id=CCTV10
 CCTV-10,http://117.72.45.109:3577/624878405?reptoken=R/mg&auth=
-CCTV-11,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-13,http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=8
@@ -41,26 +38,23 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084
 
 📡卫视频道,#genre#
-广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://117.72.45.109:3577/651632648?reptoken=R/mg&auth=
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
-辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 
 ☘️湖南频道,#genre#
