@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-16 18:48:27,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-03-17 06:26:47,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -8,27 +8,26 @@ CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
-CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
-CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=8
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4
-CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 💰央视付费频道,#genre#
@@ -36,10 +35,9 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084
 
 📡卫视频道,#genre#
-浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -67,6 +65,7 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
 
