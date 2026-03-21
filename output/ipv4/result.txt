@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-21 18:20:28,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-22 06:17:18,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -10,22 +10,21 @@ CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K&line=1
+CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
-CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
-CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
+CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
@@ -66,8 +65,8 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
