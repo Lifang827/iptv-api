@@ -1,40 +1,22 @@
 🕘️更新时间,#genre#
-2026-07-29 19:57:19,http://111.4.59.41:60901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-07-30 06:54:31,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://111.4.59.41:60901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-1,http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-CCTV-3,http://111.8.177.168:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
 CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.82:8013
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
 CCTV-5,http://114.226.212.136:8787/rtp/239.49.8.18:9610
-CCTV-7,http://111.4.59.41:60901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://111.4.59.41:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://123.118.55.165:45237/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://104.152.209.49:8181/720p/cctv9.m3u8
-CCTV-9,http://111.4.59.41:60901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://123.118.55.165:45237/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
-CCTV-12,http://104.152.209.49:8181/720p/cctv12.m3u8
-CCTV-12,http://123.118.55.165:45237/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://204.12.221.218:8181/3m1080p/cctv13.m3u8
-CCTV-13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
-CCTV-15,http://123.118.55.165:45237/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
-CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
@@ -53,7 +35,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-西藏卫视,http://123.118.55.165:45237/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 
 ☘️湖南频道,#genre#
