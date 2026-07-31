@@ -1,23 +1,19 @@
 🕘️更新时间,#genre#
-2026-07-31 19:54:43,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-01 06:54:02,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
-CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
+CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
@@ -27,14 +23,17 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://182.114.50.55:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://182.114.50.55:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+深圳卫视,http://182.114.50.55:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 
 ☘️湖南频道,#genre#
