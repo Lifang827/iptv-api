@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-09-15 08:08:00,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-09-15 22:35:22,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://101.66.198.81:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
@@ -20,11 +19,9 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 黑龙江卫视,http://115.48.161.223:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://115.48.161.223:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://115.48.161.223:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://101.66.198.81:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://101.66.198.81:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️湖南频道,#genre#
 
@@ -47,8 +44,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏀体育频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
