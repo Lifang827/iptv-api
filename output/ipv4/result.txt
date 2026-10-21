@@ -1,23 +1,57 @@
 🕘️更新时间,#genre#
-2026-10-21 08:17:25,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-10-21 22:48:20,http://112.103.141.175:1234/608807420
 
 📺央视频道,#genre#
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-1,http://112.103.141.175:1234/608807420
+CCTV-2,http://112.103.141.175:1234/631780532
+CCTV-3,http://112.103.141.175:1234/624878271
+CCTV-4,http://112.103.141.175:1234/631780421
+CCTV-5,http://112.103.141.175:1234/641886683
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5+,http://112.103.141.175:1234/641886773
+CCTV-6,http://112.103.141.175:1234/624878396
+CCTV-7,http://112.103.141.175:1234/673168121
+CCTV-8,http://112.103.141.175:1234/624878356
+CCTV-9,http://112.103.141.175:1234/673168140
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b06ebe8fff6cae6b138b2f6d679d7afd
+CCTV-10,http://112.103.141.175:1234/624878405
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CCTV-11,http://112.103.141.175:1234/667987558
+CCTV-12,http://112.103.141.175:1234/673168185
+CCTV-13,http://112.103.141.175:1234/608807423
+CCTV-14,http://112.103.141.175:1234/624878440
+CCTV-15,http://112.103.141.175:1234/673168223
+CCTV-17,http://112.103.141.175:1234/673168256
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 💰央视付费频道,#genre#
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 
 📡卫视频道,#genre#
+广东卫视,http://112.103.141.175:1234/608831231
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+北京卫视,http://112.103.141.175:1234/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://112.103.141.175:1234/947472496
+东方卫视,http://112.103.141.175:1234/651632648
+东南卫视,http://112.103.141.175:1234/849116810
+海南卫视,http://112.103.141.175:1234/947472502
+河北卫视,http://112.103.141.175:1234/962042070
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+河南卫视,http://112.103.141.175:1234/790187291
+吉林卫视,http://112.103.141.175:1234/947472500
+江苏卫视,http://112.103.141.175:1234/623899368
+江西卫视,http://112.103.141.175:1234/783847495
+辽宁卫视,http://112.103.141.175:1234/630291707
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,http://112.103.141.175:1234/738910535
+青海卫视,http://112.103.141.175:1234/947472506
+陕西卫视,http://112.103.141.175:1234/738910838
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,http://112.103.141.175:1234/961023778
 
 ☘️湖南频道,#genre#
 
@@ -30,6 +64,7 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 靖天资讯,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 
 🎬电影频道,#genre#
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
