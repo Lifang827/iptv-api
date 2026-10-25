@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-25 07:54:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-25 22:02:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -92,6 +92,7 @@ CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u
 CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c72ee5c1521486b7f54df8f63fa341b7
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e
@@ -101,7 +102,6 @@ CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
 CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8
-CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
@@ -182,8 +182,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
@@ -824,7 +824,6 @@ Viutv,http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
-靖天资讯,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
@@ -834,6 +833,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-3.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-5.m3u8
+靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-6.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
@@ -856,7 +856,6 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -925,7 +924,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
-靖天戏剧,http://zby.lskk.top/cdnlive.php?mode=play&id=7523f262f2a702630ac401b50879c11c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
@@ -935,6 +933,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-3.m3u8
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.m3u8
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-5.m3u8
+靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-6.m3u8
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-2.ctv
@@ -1080,8 +1079,8 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 风云音乐,https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
 风云音乐,http://ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 音乐广播,https://tv-1.iill.top/fm/552
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
