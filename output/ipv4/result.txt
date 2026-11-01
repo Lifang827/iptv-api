@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-31 23:34:43,http://45.192.97.170:8880/play/255.m3u8
+2026-11-01 08:36:18,http://45.192.97.170:8880/play/255.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/255.m3u8
@@ -10,13 +10,11 @@ CCTV-5,http://45.192.97.170:8880/play/259.m3u8
 CCTV-5,http://45.192.97.170:8880/play/260.m3u8
 CCTV-8,http://45.192.97.170:8880/play/263.m3u8
 CCTV-9,http://45.192.97.170:8880/play/264.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3a00fc0d3fc15e9259b00428ba25249c
-CCTV-10,http://45.192.97.170:8880/play/265.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://45.192.97.170:8880/play/265.m3u8
 CCTV-13,http://45.192.97.170:8880/play/268.m3u8
-CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-1,http://45.192.97.170:8880/play/222.m3u8
+CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 💰央视付费频道,#genre#
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
@@ -27,8 +25,8 @@ CETV-1,http://45.192.97.170:8880/play/222.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
 ☘️湖南频道,#genre#
