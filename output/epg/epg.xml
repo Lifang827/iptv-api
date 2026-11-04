@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261103173531 +0800">
+<tv date="20261104014738 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -13638,45 +13638,6 @@
 	<channel id="CHC家庭影院">
 		<display-name lang="zh">CHC家庭影院</display-name>
 	</channel>
-	<programme channel="CHC家庭影院" start="20261028000000 +0800" stop="20261028011500 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028011500 +0800" stop="20261028025500 +0800">
-		<title lang="zh">残缺</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028025500 +0800" stop="20261028044500 +0800">
-		<title lang="zh">我是谁</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028044500 +0800" stop="20261028065000 +0800">
-		<title lang="zh">扫毒3人在天涯</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028065000 +0800" stop="20261028094500 +0800">
-		<title lang="zh">指环王双塔奇兵</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028094500 +0800" stop="20261028115500 +0800">
-		<title lang="zh">抓娃娃</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028115500 +0800" stop="20261028141000 +0800">
-		<title lang="zh">超人</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028141000 +0800" stop="20261028164000 +0800">
-		<title lang="zh">超人归来</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028164000 +0800" stop="20261028182500 +0800">
-		<title lang="zh">毒蜂</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028182500 +0800" stop="20261028200000 +0800">
-		<title lang="zh">大灌篮</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028200000 +0800" stop="20261028220000 +0800">
-		<title lang="zh">浪浪人生</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028220000 +0800" stop="20261028232500 +0800">
-		<title lang="zh">武僧</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20261028232500 +0800" stop="20261028235900 +0800">
-		<title lang="zh">铁面无私</title>
-	</programme>
 	<programme channel="CHC家庭影院" start="20261029000000 +0800" stop="20261029012000 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
@@ -13923,55 +13884,55 @@
 	<programme channel="CHC家庭影院" start="20261103220000 +0800" stop="20261103235900 +0800">
 		<title lang="zh">星际迷航</title>
 	</programme>
+	<programme channel="CHC家庭影院" start="20261104000000 +0800" stop="20261104000500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104000500 +0800" stop="20261104013000 +0800">
+		<title lang="zh">武僧</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104013000 +0800" stop="20261104030000 +0800">
+		<title lang="zh">人间至味</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104030000 +0800" stop="20261104050000 +0800">
+		<title lang="zh">逆行人生</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104050000 +0800" stop="20261104064000 +0800">
+		<title lang="zh">新不了情</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104064000 +0800" stop="20261104081500 +0800">
+		<title lang="zh">功夫机器侠北腿</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104081500 +0800" stop="20261104101500 +0800">
+		<title lang="zh">王牌特工特工学院</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104101500 +0800" stop="20261104122000 +0800">
+		<title lang="zh">宝贝计划</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104122000 +0800" stop="20261104141000 +0800">
+		<title lang="zh">这个杀手不太冷</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104141000 +0800" stop="20261104164000 +0800">
+		<title lang="zh">超人归来</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104164000 +0800" stop="20261104184500 +0800">
+		<title lang="zh">没有一顿火锅解决不了的事</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104184500 +0800" stop="20261104201000 +0800">
+		<title lang="zh">黄河守墓人</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104201000 +0800" stop="20261104220000 +0800">
+		<title lang="zh">盛夏未来</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104220000 +0800" stop="20261104233500 +0800">
+		<title lang="zh">五郎八卦棍</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20261104233500 +0800" stop="20261104235900 +0800">
+		<title lang="zh">毒蜂</title>
+	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
-	<programme channel="海南卫视" start="20261028000000 +0800" stop="20261028001500 +0800">
-		<title lang="zh">卫视高尔夫</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028001800 +0800" stop="20261028010000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028010000 +0800" stop="20261028070000 +0800">
-		<title lang="zh">停机检修</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028070000 +0800" stop="20261028070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028070100 +0800" stop="20261028073300 +0800">
-		<title lang="zh">海南新闻联播</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028073300 +0800" stop="20261028180800 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028073300 +0800" stop="20261028180800 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028180800 +0800" stop="20261028182200 +0800">
-		<title lang="zh">特别节目</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028182200 +0800" stop="20261028183000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028183000 +0800" stop="20261028190000 +0800">
-		<title lang="zh">海南新闻联播</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028190000 +0800" stop="20261028193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028193000 +0800" stop="20261028195500 +0800">
-		<title lang="zh">潮起海之南</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028195500 +0800" stop="20261028202300 +0800">
-		<title lang="zh">视界</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028202300 +0800" stop="20261028222000 +0800">
-		<title lang="zh">金椰剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028222000 +0800" stop="20261028232000 +0800">
-		<title lang="zh">星光剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261028232000 +0800" stop="20261029001500 +0800">
+	<programme channel="海南卫视" start="20261029000000 +0800" stop="20261029001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<programme channel="海南卫视" start="20261029001800 +0800" stop="20261029010000 +0800">
@@ -14364,6 +14325,9 @@
 	<programme channel="海南卫视" start="20261104001500 +0800" stop="20261104023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261104001500 +0800" stop="20261104023500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261104023500 +0800" stop="20261104030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -14387,9 +14351,6 @@
 	</programme>
 	<programme channel="海南卫视" start="20261104070100 +0800" stop="20261104073300 +0800">
 		<title lang="zh">海南新闻联播</title>
-	</programme>
-	<programme channel="海南卫视" start="20261104073300 +0800" stop="20261104180800 +0800">
-		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261104073300 +0800" stop="20261104180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -14427,6 +14388,9 @@
 	<programme channel="海南卫视" start="20261105001500 +0800" stop="20261105023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261105001500 +0800" stop="20261105023500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261105023500 +0800" stop="20261105030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -14454,108 +14418,39 @@
 	<programme channel="海南卫视" start="20261105073300 +0800" stop="20261105180800 +0800">
 		<title lang="zh">阳光剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261105180800 +0800" stop="20261105182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105182200 +0800" stop="20261105183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105183000 +0800" stop="20261105190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105190000 +0800" stop="20261105193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105193000 +0800" stop="20261105195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105195500 +0800" stop="20261105202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105202500 +0800" stop="20261105210700 +0800">
+		<title lang="zh">树说中国</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105210700 +0800" stop="20261105222000 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105222000 +0800" stop="20261105232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261105232000 +0800" stop="20261106001800 +0800">
+		<title lang="zh">卫视高尔夫</title>
+	</programme>
 	<channel id="金鹰纪实">
 		<display-name lang="zh">金鹰纪实</display-name>
 	</channel>
-	<programme channel="金鹰纪实" start="20261028000000 +0800" stop="20261028011000 +0800">
-		<title lang="zh">动物星球精编版</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028011000 +0800" stop="20261028013000 +0800">
-		<title lang="zh">我的纪录片</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028013000 +0800" stop="20261028024000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028024000 +0800" stop="20261028025500 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028025500 +0800" stop="20261028031000 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028031000 +0800" stop="20261028035000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028035000 +0800" stop="20261028044000 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028044000 +0800" stop="20261028055000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028055000 +0800" stop="20261028072000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028072000 +0800" stop="20261028075000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028075000 +0800" stop="20261028082500 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028082500 +0800" stop="20261028094000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028094000 +0800" stop="20261028105000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028105000 +0800" stop="20261028120000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028120000 +0800" stop="20261028123500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028123500 +0800" stop="20261028133500 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028133500 +0800" stop="20261028144500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028144500 +0800" stop="20261028153500 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028153500 +0800" stop="20261028162800 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028162800 +0800" stop="20261028171000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028171000 +0800" stop="20261028184000 +0800">
-		<title lang="zh">寰宇地理</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028184000 +0800" stop="20261028191500 +0800">
-		<title lang="zh">动物星球</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028191500 +0800" stop="20261028192000 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028192000 +0800" stop="20261028195000 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028195000 +0800" stop="20261028204000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028204000 +0800" stop="20261028204500 +0800">
-		<title lang="zh">党史上的今天</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028204500 +0800" stop="20261028211000 +0800">
-		<title lang="zh">我的纪录片</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028211000 +0800" stop="20261028214000 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028214000 +0800" stop="20261028222500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028222500 +0800" stop="20261028223000 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028223000 +0800" stop="20261028232000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028232000 +0800" stop="20261028235000 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20261028235000 +0800" stop="20261029000000 +0800">
-		<title lang="zh">动物星球精编版</title>
-	</programme>
 	<programme channel="金鹰纪实" start="20261029003000 +0800" stop="20261029010000 +0800">
 		<title lang="zh">新闻大求真</title>
 	</programme>
@@ -15315,7 +15210,109 @@
 	<programme channel="金鹰纪实" start="20261104232000 +0800" stop="20261104235000 +0800">
 		<title lang="zh">传奇</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20261104235000 +0800" stop="20261105000000 +0800">
+	<programme channel="金鹰纪实" start="20261104235000 +0800" stop="20261105003000 +0800">
 		<title lang="zh">动物星球精编版</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105003000 +0800" stop="20261105010000 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105010000 +0800" stop="20261105015000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105015000 +0800" stop="20261105022000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105022000 +0800" stop="20261105025000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105025000 +0800" stop="20261105032000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105032000 +0800" stop="20261105041000 +0800">
+		<title lang="zh">看世界</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105041000 +0800" stop="20261105050000 +0800">
+		<title lang="zh">探索调时</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105050000 +0800" stop="20261105055000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105055000 +0800" stop="20261105062000 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105062000 +0800" stop="20261105080000 +0800">
+		<title lang="zh">动物星球</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105080000 +0800" stop="20261105084000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105084000 +0800" stop="20261105093000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105093000 +0800" stop="20261105103000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105103000 +0800" stop="20261105113000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105113000 +0800" stop="20261105123000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105123000 +0800" stop="20261105130000 +0800">
+		<title lang="zh">历史片场白天档</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105130000 +0800" stop="20261105133500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105133500 +0800" stop="20261105144000 +0800">
+		<title lang="zh">历史片场白天档</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105144000 +0800" stop="20261105151000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105151000 +0800" stop="20261105161000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105161000 +0800" stop="20261105164000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105164000 +0800" stop="20261105172500 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105172500 +0800" stop="20261105182000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105182000 +0800" stop="20261105191500 +0800">
+		<title lang="zh">动物星球</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105191500 +0800" stop="20261105192000 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105192000 +0800" stop="20261105195500 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105195500 +0800" stop="20261105204000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105204000 +0800" stop="20261105211000 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105211000 +0800" stop="20261105221000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105221000 +0800" stop="20261105223000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105223000 +0800" stop="20261105223500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105223500 +0800" stop="20261105232000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105232000 +0800" stop="20261105235000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20261105235000 +0800" stop="20261106000000 +0800">
+		<title lang="zh">看世界</title>
 	</programme>
 </tv>
