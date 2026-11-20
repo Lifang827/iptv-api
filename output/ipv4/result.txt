@@ -1,16 +1,14 @@
 🕘️更新时间,#genre#
-2026-11-20 02:46:33,http://173.208.234.146/live/cctv1.m3u8
+2026-11-20 10:47:54,http://173.208.234.146/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://173.208.234.146/live/cctv1.m3u8
-CCTV-2,http://hns.7159287.xyz:8767/cctv2.m3u8
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d392947db1949263e3e770e234bdb33e
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://173.208.234.146/live/cctv13.m3u8
-CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 💰央视付费频道,#genre#
 央视台球,http://204.12.221.218:8181/3m1080p/ystq.m3u8
@@ -21,17 +19,9 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-黑龙江卫视,http://hns.7159287.xyz:8767/hljws.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-东南卫视,http://hns.7159287.xyz:8767/dnws.m3u8
-广西卫视,http://hns.7159287.xyz:8767/gxws.m3u8
-贵州卫视,http://hns.7159287.xyz:8767/gzws.m3u8
-河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-山东卫视,http://hns.7159287.xyz:8767/sdws.m3u8
-山西卫视,http://hns.7159287.xyz:8767/shanxiws.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️湖南频道,#genre#
 
@@ -43,8 +33,8 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
